@@ -1,4 +1,4 @@
-# 🧠 GA4 CLI - Google Analytics 4 Data Retrieval Tool
+# kanmi-ga4-cli - Google Analytics 4 Data Retrieval Tool
 
 A powerful command-line interface for retrieving Google Analytics 4 data with OAuth authentication, multiple output formats, and comprehensive reporting capabilities.
 

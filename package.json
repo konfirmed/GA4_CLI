@@ -1,5 +1,5 @@
 {
-  "name": "ga4-cli",
+  "name": "kanmi-ga4-cli",
   "version": "1.0.0",
   "description": "CLI tool for Google Analytics 4 data retrieval with OAuth authentication",
   "main": "dist/index.js",
